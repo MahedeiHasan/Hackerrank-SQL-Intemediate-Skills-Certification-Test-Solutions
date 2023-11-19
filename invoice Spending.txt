@@ -1,0 +1,19 @@
+----- invoice Spending
+
+
+SELECT 
+      cu.customer_name, AVG(i.total_price)
+FROM 
+      customer cu
+JOIN 
+      invoice i ON cu.id = i.customer_id 
+GROUP BY 
+      cu.customer_name
+HAVING 
+      AVG(i.total_price) <= (SELECT AVG(total_price) FROM invoice) / 4
+ORDER BY 
+      AVG(i.total_price) DESC;
+
+
+
+
