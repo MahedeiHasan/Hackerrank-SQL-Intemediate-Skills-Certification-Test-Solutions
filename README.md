@@ -11,3 +11,10 @@ I took the HackerRank test on 10/11/2023. The certificate can be viewed [here](h
 - [cumtomer Spending.txt](https://github.com/MahedeiHasan/Hackerrank-SQL-Intemediate-Skills-Certification-Test-Solutions/blob/main/cumtomer%20Spending.txt)
 - [invoice Spending.txt](https://github.com/MahedeiHasan/Hackerrank-SQL-Intemediate-Skills-Certification-Test-Solutions/blob/main/invoice%20Spending.txt)
 - [invoies per country(solution-1,2).txt](https://github.com/MahedeiHasan/Hackerrank-SQL-Intemediate-Skills-Certification-Test-Solutions/blob/main/invoies%20per%20country(solution-1%2C2).txt)
+
+
+New Questions?
+If you have any new questions other than these, please create PR/Issue. I will be adding SQL Advanced Questions soon in a separate repo.
+
+# Connect With Me
+[Linkedin](https://www.linkedin.com/in/mahedei-hasan-391793204/)
